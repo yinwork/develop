@@ -1,0 +1,1 @@
+blueprint(markdown)を使って、APIモックサーバとI/F疎通テストを行なう。
